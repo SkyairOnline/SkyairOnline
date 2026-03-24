@@ -1,8 +1,8 @@
 # Hi, I'm Aldo Surya Ongko 👋
 
-**Mobile Developer** · Batam, Indonesia
+**Full Stack Developer** · Batam, Indonesia
 
-Building mobile experiences across **Android (Kotlin)** and **Flutter (Dart)** — from Indonesia's largest e-commerce platform, to media & entertainment super-apps.
+Building mobile and full stack experiences across **Android (Kotlin)**, **Flutter (Dart)**, and **Node.js** — from Indonesia's largest e-commerce platform, to media & entertainment super-apps, to AI-powered web apps.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aldo-surya-ongko)
 
@@ -24,6 +24,13 @@ Building mobile experiences across **Android (Kotlin)** and **Flutter (Dart)** �
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=flat-square)
+
+**AI & LLM**
+
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![LLM](https://img.shields.io/badge/Local_LLM-informational?style=flat-square)
+![Google Places API](https://img.shields.io/badge/Google_Places_API-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
 
 **Architecture & Tools**
 
@@ -96,6 +103,14 @@ First professional role — built a stock trading mobile app for Android using *
 | [ReactNativeBasicProject](https://github.com/SkyairOnline/ReactNativeBasicProject) | Introductory React Native project | JavaScript | — |
 | [HotelList](https://github.com/SkyairOnline/HotelList) | Beginner Android project — hotel listing UI | Kotlin | — |
 | [SimpleAppButton](https://github.com/SkyairOnline/SimpleAppButton) | Flutter form application practice project | Flutter/Dart | — |
+
+---
+
+### Side Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [MapLLM](https://github.com/SkyairOnline/MapLLM) | Local AI-powered place discovery — natural language queries mapped to real locations via Google Places API, using Ollama + qwen3.5 as the local LLM | Node.js · React · Ollama · Google Maps |
 
 ---
 
